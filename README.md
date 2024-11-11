@@ -14,8 +14,8 @@
 
 <h3 align="left">I am currently working with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
-(https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/poojagurumurtitullccvbvehbvbchkbhtfdibbkfhgfte)
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=siri-n-shetty&&style=flat-square" align="center" />
@@ -23,14 +23,7 @@
 
 #
 
-<h3 align="center">Github Stats</h3>
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siri-n-shetty&border_radius=10&theme=dracula" alt="siri-n-shetty" /> 
-</div>
-<h3 align="center">Github Streak</h3>
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=siri-n-shetty&theme=dracula&border_radius=10&fire=DD2727" alt="siri-n-shetty" />
-</div>  
+
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
