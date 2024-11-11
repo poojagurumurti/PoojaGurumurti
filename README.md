@@ -3,8 +3,7 @@
 
 - A passionate learner, constantly exploring the world of coding and technology.
 - Each day, I embark on new learning adventures in algorithms and web development.
-- Visit my blog: [Siri's Study Stash](https://siri123blog.wordpress.com/)
-- Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -15,7 +14,7 @@
 
 <h3 align="left">I am currently working with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?c,cpp,html,css,js,react,mongodb,mysql,ubuntu,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=siri-n-shetty&&style=flat-square" align="center" />
