@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siri N Shetty</h1>
+<h1 align="center">Hi 👋, I'm Pooja Gurumurti</h1>
 <img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - A passionate learner, constantly exploring the world of coding and technology.
