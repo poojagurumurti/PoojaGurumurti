@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Siri N Shetty
+Coding
 
-<!--
-**poojagurumurti/PoojaGurumurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate learner, constantly exploring the world of coding and technology.
+Each day, I embark on new learning adventures in algorithms and web development.
+Visit my blog: Siri's Study Stash
+Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.
+Connect with me:
+  
 
-Here are some ideas to get you started:
+I am currently working with:
+My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Github Stats
+siri-n-shetty
+Github Streak
+siri-n-shetty
+footer
