@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,django,react,mysql,html,css,bootstrap,mongodb,spring,github,ubantu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
+[![My Skills](https://skillicons.dev/icons?i=java,py,django,npm,react,mysql,html,css,bootstrap,mongodb,spring,github,ubuntu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojagurumurti&show_icons=true&locale=en&layout=compact" alt="poojagurumurti" /></p>
 
