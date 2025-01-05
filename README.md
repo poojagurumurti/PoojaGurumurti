@@ -25,10 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojagurumurti&theme=dracula" alt="poojagurumurti" /></p>
 
-
-#
- 
-
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
-#
+
