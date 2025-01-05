@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pooja Gurumurti</h1>
-<h3 align="center">A passionate Business Analyst </h3>
+<h3 align="center">A passionate Data Analyst </h3>
 <img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagurumurti&label=Profile%20views&color=0e75b6&style=flat" alt="poojagurumurti" /> </p>
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Python,Java,SQL,Excel,Power BI,React js,**
-
-- 📫 How to reach me **poojagurumurti@gmail.com**
+- 🌟 Experience: 1 year as a Data Analyst, with a strong focus on deriving insights from data and solving real-world problems.
+- 💻 Technical Skills: Proficient in **Python, Java, Power BI, React.js, Excel, and SQL** for coding, data visualization, and efficient analysis.
+- 🚀 Learning Journey: Currently diving into the Django Framework to expand my backend development expertise.
+- 📚 Passion: Passionate about exploring the world of coding and technology to stay ahead in the ever-evolving tech landscape.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
