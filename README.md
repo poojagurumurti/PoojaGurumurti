@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojagurumurti&show_icons=true&locale=en&layout=compact" alt="poojagurumurti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojagurumurti&show_icons=true&locale=en" alt="poojagurumurti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojagurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="poojagurumurti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojagurumurti&" alt="poojagurumurti" /></p>
 
