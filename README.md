@@ -10,6 +10,11 @@
 - 📚 Passionate about exploring the world of coding and technology to stay ahead in the ever-evolving tech landscape.
 
 <h3 align="left">Connect with me:</h3>
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojagurumurti@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/pooja-gt)
+<br>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pooja-gt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-gt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/poojagurumurti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poojagurumurti" height="30" width="40" /></a>
