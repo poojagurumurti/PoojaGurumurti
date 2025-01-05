@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,react,mongodb,mysql,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,react,mongodb,spring,mysql,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
 
 
 <h3 align="left">Languages and Tools:</h3>
