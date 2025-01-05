@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagurumurti&label=Profile%20views&color=0e75b6&style=flat" alt="poojagurumurti" /> </p>
 
-- 🌟 Experience: 1 year as a Data Analyst, with a strong focus on deriving insights from data and solving real-world problems.
-- 💻 Technical Skills: Proficient in **Python, Java, Power BI, React.js, Excel, and SQL** for coding, data visualization, and efficient analysis.
-- 🚀 Learning Journey: Currently diving into the Django Framework to expand my backend development expertise.
-- 📚 Passion: Passionate about exploring the world of coding and technology to stay ahead in the ever-evolving tech landscape.
+- 🌟 1 year of Experience as a Data Analyst, with a strong focus on deriving insights from data.
+- 💻 Proficient in **Python, Java, Power BI, React.js, Excel, and SQL** for coding, data visualization, and efficient analysis.
+- 🚀 Currently diving into the **Django Framework** to expand my backend development expertise.
+- 📚 Passionate about exploring the world of coding and technology to stay ahead in the ever-evolving tech landscape.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
