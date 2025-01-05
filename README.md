@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojagurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="poojagurumurti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojagurumurti&" alt="poojagurumurti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojagurumurti&theme=dracula" alt="poojagurumurti" /></p>
 
 
 #
