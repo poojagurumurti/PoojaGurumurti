@@ -19,7 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,django,npm,react,mysql,html,css,bootstrap,mongodb,spring,github,ubuntu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojagurumurti&show_icons=true&locale=en&layout=compact" alt="poojagurumurti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojagurumurti&show_icons=true&locale=en" alt="poojagurumurti" /></p>
 
@@ -30,7 +30,7 @@
 
 <h3 align="center">Github Stats</h3>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siri-n-shetty&border_radius=10&theme=dracula" alt="siri-n-shetty" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=poojagurumurti&border_radius=10&theme=dracula" alt="poojagurumurti" /> 
 </div>
 <h3 align="center">Github Streak</h3>
 <div align="center">
