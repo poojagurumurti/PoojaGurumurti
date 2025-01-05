@@ -15,9 +15,9 @@
 [![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/pooja-gt)
 
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
 
 
 <h3 align="left">Languages and Tools:</h3>
