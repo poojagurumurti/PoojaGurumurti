@@ -1,25 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pooja Gurumurti</h1>
 <h3 align="center">A passionate Business Analyst </h3>
-<img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagurumurti&label=Profile%20views&color=0e75b6&style=flat" alt="poojagurumurti" /> </p>
+<p align="left"> https://komarev.com/ghpvc/?username=poojagurumurti&label=Profile%20views&color=0e75b6&style=flat </p>
 
-- 🌟 2.5 years of Experience as a **Business & Data Analyst**, with a strong focus on deriving insights from data.
-- 💻 Proficient in **Python, SQL, Tableau, Power BI, Excel, Oracle, Azure, Peoplesoft, Informatica ETL and Machine Learning** for coding, data visualization, and efficient analysis.
-- 🚀 Currently diving into the **Django Framework** to expand my backend development expertise.
+- 🌟 2.5 years of Experience as a **Business & Data Analyst**, with a strong focus on deriving insights from data.  
+- 💻 Proficient in **Python, SQL, Tableau, Power BI, Excel, Oracle, Azure, Peoplesoft, Informatica ETL and Machine Learning** for coding, data visualization, and efficient analysis.  
+- 🚀 Currently diving into the **Django Framework** to expand my backend development expertise.  
 - 📚 Passionate about exploring the world of coding and technology to stay ahead in the ever-evolving tech landscape.
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](!Gmail(mailto:poojagurumurti@gmail.com))
-[![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/pooja-gt)
-
+<!-- ✅ Correct Gmail Badge -->
+![Gmail Badge](mailto:poojagurume -->
+!
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=azure,py,django,npm,mysql,html,css,bootstrap,github,ubuntu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
-
-
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
-
-
+[![My Skills](https://skillicons.dev/icons?i=azure,py,django,npm,mysql,
