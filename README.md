@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=oracle,py,django,npm,react,mysql,html,css,bootstrap,mongodb,spring,github,ubuntu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
+[![My Skills](https://skillicons.dev/icons?i=azure,py,django,npm,react,mysql,html,css,bootstrap,mongodb,spring,github,ubuntu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
 
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
