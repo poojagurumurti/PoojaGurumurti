@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Gurumurti</h1>
-<h3 align="center">A passionate Data Analyst </h3>
+<h3 align="center">A passionate Business Analyst </h3>
 <img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagurumurti&label=Profile%20views&color=0e75b6&style=flat" alt="poojagurumurti" /> </p>
 
-- 🌟 2 years of Experience as a **Business & Data Analyst**, with a strong focus on deriving insights from data.
-- 💻 Proficient in **Python, SQL, Tableau, Power BI, Machine Learning and Excel** for coding, data visualization, and efficient analysis.
+- 🌟 2.5 years of Experience as a **Business & Data Analyst**, with a strong focus on deriving insights from data.
+- 💻 Proficient in **Python, SQL, Tableau, Power BI, Excel, Oracle, Azure, Peoplesoft, Informatica ETL and Machine Learning** for coding, data visualization, and efficient analysis.
 - 🚀 Currently diving into the **Django Framework** to expand my backend development expertise.
 - 📚 Passionate about exploring the world of coding and technology to stay ahead in the ever-evolving tech landscape.
 
