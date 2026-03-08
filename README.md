@@ -19,11 +19,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,django,npm,react,mysql,html,css,bootstrap,mongodb,spring,github,ubuntu,git&theme=dark&perline=13)](https://github.com/poojagurumurti)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojagurumurti&show_icons=true&layout=compact&locale=en&theme=dracula" alt="poojagurumurti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojagurumurti&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="poojagurumurti" /></p>
-
-
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
