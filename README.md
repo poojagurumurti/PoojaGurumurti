@@ -11,14 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Gmail(mailto:poojagurumurti@gmail.com))
-
-<p>
-  https://mail.google.com/mail/?view=cm&fs=1&to=poojagurumurti@gmail.com
-    https://img.shields.io/badge/Gmail%20(Web)-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  </a>
-</p>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojagurumurti@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/pooja-gt)
 
 
